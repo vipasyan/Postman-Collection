@@ -12,6 +12,6 @@ description: |-
 
   [Learn more about Postman Collections.](https://learning.postman.com/docs/collections/collections-overview/)
 auth:
-  - id: e088e768-3fe9-49e2-baf9-db646ee1ac52
+  - id: 837a1ef5-c34f-437b-8e03-8d111ddf17ef
     type: basic
     name: basic auth
